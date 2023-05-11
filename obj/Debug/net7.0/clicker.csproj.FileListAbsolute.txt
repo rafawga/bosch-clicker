@@ -1,0 +1,15 @@
+U:\ETS\C#\poo\clicker\bin\Debug\net7.0\clicker.exe
+U:\ETS\C#\poo\clicker\bin\Debug\net7.0\clicker.deps.json
+U:\ETS\C#\poo\clicker\bin\Debug\net7.0\clicker.runtimeconfig.json
+U:\ETS\C#\poo\clicker\bin\Debug\net7.0\clicker.dll
+U:\ETS\C#\poo\clicker\bin\Debug\net7.0\clicker.pdb
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.csproj.AssemblyReference.cache
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.GeneratedMSBuildEditorConfig.editorconfig
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.AssemblyInfoInputs.cache
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.AssemblyInfo.cs
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.csproj.CoreCompileInputs.cache
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.dll
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\refint\clicker.dll
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.pdb
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\clicker.genruntimeconfig.cache
+U:\ETS\C#\poo\clicker\obj\Debug\net7.0\ref\clicker.dll
