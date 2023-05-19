@@ -2,7 +2,7 @@ public class Centro : Maquina
 {
     public Centro()
     {
-        preco = 100;
+        preco = 500;
         pps = 5;
         max = 500;
         pontoAtual = 0;
